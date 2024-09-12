@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on </description>
+    <title>Portfolio on </title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolio on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Sep 2024 22:45:27 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>http://localhost:1313/portfolio/test/</link>
       <pubDate>Thu, 12 Sep 2024 22:45:27 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/test/</guid>
       <description>&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/COgU6YCUcAApmFw.jpg&#34; alt=&#34;funny haha&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/first/</link>
-      <pubDate>Tue, 10 Sep 2024 23:40:55 +0000</pubDate>
-      <guid>http://localhost:1313/first/</guid>
-      <description>&lt;p&gt;Test&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
