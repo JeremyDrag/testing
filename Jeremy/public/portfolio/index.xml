@@ -13,7 +13,7 @@
       <link>http://localhost:1313/portfolio/gallary/</link>
       <pubDate>Thu, 12 Sep 2024 23:02:56 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/gallary/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/blog-avatar.jpg&#34; alt=&#34;test&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;engagement-photos&#34;&gt;Engagement Photos&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/IMG_6439.jpg&#34; alt=&#34;test&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/IMG_6420.jpg&#34; alt=&#34;test2&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;car-photos&#34;&gt;Car Photos&lt;/h2&gt;&#xA;&lt;h2 id=&#34;nature-photos&#34;&gt;Nature Photos&lt;/h2&gt;&#xA;&lt;h2 id=&#34;misc&#34;&gt;MISC&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Test</title>
