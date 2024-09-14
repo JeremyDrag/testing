@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=41655&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1726253034" rel="stylesheet">
+<link href="/css/custom.css?1726327563" rel="stylesheet">
 
 
 
@@ -55,7 +55,7 @@
 <link href="/css/owl.theme.css" rel="stylesheet">
 
 
-<link rel="alternate" href="http://localhost:1313/index.xml" type="application/rss+xml" title="">
+<link rel="alternate" href="http://localhost:41655/index.xml" type="application/rss+xml" title="">
 
 
 
@@ -121,7 +121,7 @@
             <div class="navbar-header">
                 <a class="navbar-brand home" href="/">
                     
-                      <img src="/img/logo.png" alt="Gallery logo" class="hidden-xs hidden-sm" />
+                      <img src="/img/logo1.png" alt="Gallery logo" class="hidden-xs hidden-sm" />
                       <img src="/img/logo-small.png" alt="Gallery logo" class="visible-xs visible-sm" />
                     
                     <span class="sr-only">Gallery - go to homepage</span>
@@ -151,7 +151,7 @@
 
                   
                   <li class="dropdown ">
-                    <a href="/">Home</a>
+                    <a href="/home/home">Home</a>
                   </li>
                   
                   
@@ -166,7 +166,7 @@
 
                   
                   <li class="dropdown ">
-                    <a href="/img/template-homepage.png">Play a game</a>
+                    <a href="/game/game">Play a game</a>
                   </li>
                   
                   
@@ -264,15 +264,74 @@
                         
 
                         <div id="post-content">
-                          <h2 id="engagement-photos">Engagement Photos</h2>
-<p><img src="/img/Proposal.png" alt="Proposals">
-<img src="/img/Proposal2.png" alt="Proposals2"></p>
-<h2 id="car-photos">Car Photos</h2>
-<p><img src="/img/car1.png" alt="Car">
-<img src="/img/car2.png" alt="Car2">
-<img src="/img/car3.png" alt="Car3"></p>
-<h2 id="nature-photos">Nature Photos</h2>
-<h2 id="misc">MISC</h2>
+                          <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+<p>.active, .collapsible:hover {
+background-color: #555;
+}</p>
+<p>.content {
+padding: 0 18px;
+display: none;
+overflow: hidden;
+background-color: #f1f1f1;
+}
+</style></p>
+</head>
+<body>
+<h2>Proposal Pictures</h2>
+<p>Click on button to open section</p>
+<button type="button" class="collapsible">Proposal</button>
+<div class="content" style="display: none;">
+  <img src="/img/Proposal.png" alt="Proposal1">
+  <img src="/img/Proposal2.png" alt="Proposal2">
+</div>
+<h2>Car Pictures</h2>
+<p>Click on button to open section</p>
+<button type="button" class="collapsible">Cars</button>
+<div class="content" style="display: none;">
+  <img src="/img/car1.png" alt="Car1">
+  <img src="/img/Car2.png" alt="Car2">
+  <img src="/img/Car3.png" alt="Car3">
+</div>
+<h2>Animals Pictures</h2>
+<p>Click on button to open section</p>
+<button type="button" class="collapsible">Animals Pictures</button>
+<div class="content" style="display: none;">
+  <img src="/img/an1.png" alt="Animals1">
+  <img src="/img/an2.png" alt="Animals2">
+</div>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</body>
+</html>
 
                         </div>
                         
@@ -301,7 +360,7 @@
         <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
             <div class="input-group">
                 <input type="search" name="q" class="form-control" placeholder="Search">
-                <input type="hidden" name="sitesearch" value="http://localhost:1313/">
+                <input type="hidden" name="sitesearch" value="http://localhost:41655/">
                 <span class="input-group-btn">
                     <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
                 </span>

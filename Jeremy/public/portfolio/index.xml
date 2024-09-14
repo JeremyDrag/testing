@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on </title>
-    <link>http://localhost:1313/portfolio/</link>
+    <link>http://localhost:41655/portfolio/</link>
     <description>Recent content in Portfolio on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Sep 2024 23:02:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41655/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gallery</title>
-      <link>http://localhost:1313/portfolio/gallary/</link>
+      <link>http://localhost:41655/portfolio/gallary/</link>
       <pubDate>Thu, 12 Sep 2024 23:02:56 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/gallary/</guid>
-      <description>&lt;h2 id=&#34;engagement-photos&#34;&gt;Engagement Photos&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/IMG_6439.jpg&#34; alt=&#34;test&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/IMG_6420.jpg&#34; alt=&#34;test2&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;car-photos&#34;&gt;Car Photos&lt;/h2&gt;&#xA;&lt;h2 id=&#34;nature-photos&#34;&gt;Nature Photos&lt;/h2&gt;&#xA;&lt;h2 id=&#34;misc&#34;&gt;MISC&lt;/h2&gt;</description>
+      <guid>http://localhost:41655/portfolio/gallary/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&lt;head&gt;&#xA;&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;&#xA;&lt;style&gt;&#xA;.collapsible {&#xA;  background-color: #777;&#xA;  color: white;&#xA;  cursor: pointer;&#xA;  padding: 18px;&#xA;  width: 100%;&#xA;  border: none;&#xA;  text-align: left;&#xA;  outline: none;&#xA;  font-size: 15px;&#xA;}&#xA;&lt;p&gt;.active, .collapsible:hover {&#xA;background-color: #555;&#xA;}&lt;/p&gt;&#xA;&lt;p&gt;.content {&#xA;padding: 0 18px;&#xA;display: none;&#xA;overflow: hidden;&#xA;background-color: #f1f1f1;&#xA;}&#xA;&lt;/style&gt;&lt;/p&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&lt;h2&gt;Proposal Pictures&lt;/h2&gt;&#xA;&lt;p&gt;Click on button to open section&lt;/p&gt;&#xA;&lt;button type=&#34;button&#34; class=&#34;collapsible&#34;&gt;Proposal&lt;/button&gt;&#xA;&lt;div class=&#34;content&#34; style=&#34;display: none;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:41655/img/Proposal.png&#34; alt=&#34;Proposal1&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:41655/img/Proposal2.png&#34; alt=&#34;Proposal2&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2&gt;Car Pictures&lt;/h2&gt;&#xA;&lt;p&gt;Click on button to open section&lt;/p&gt;&#xA;&lt;button type=&#34;button&#34; class=&#34;collapsible&#34;&gt;Cars&lt;/button&gt;&#xA;&lt;div class=&#34;content&#34; style=&#34;display: none;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:41655/img/car1.png&#34; alt=&#34;Car1&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:41655/img/Car2.png&#34; alt=&#34;Car2&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:41655/img/Car3.png&#34; alt=&#34;Car3&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2&gt;Animals Pictures&lt;/h2&gt;&#xA;&lt;p&gt;Click on button to open section&lt;/p&gt;&#xA;&lt;button type=&#34;button&#34; class=&#34;collapsible&#34;&gt;Animals Pictures&lt;/button&gt;&#xA;&lt;div class=&#34;content&#34; style=&#34;display: none;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:41655/img/an1.png&#34; alt=&#34;Animals1&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:41655/img/an2.png&#34; alt=&#34;Animals2&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;var coll = document.getElementsByClassName(&#34;collapsible&#34;);&#xA;var i;&#xA;&#xA;for (i = 0; i &lt; coll.length; i++) {&#xA;  coll[i].addEventListener(&#34;click&#34;, function() {&#xA;    this.classList.toggle(&#34;active&#34;);&#xA;    var content = this.nextElementSibling;&#xA;    if (content.style.display === &#34;block&#34;) {&#xA;      content.style.display = &#34;none&#34;;&#xA;    } else {&#xA;      content.style.display = &#34;block&#34;;&#xA;    }&#xA;  });&#xA;}&#xA;&lt;/script&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/portfolio/test/</link>
+      <link>http://localhost:41655/portfolio/test/</link>
       <pubDate>Thu, 12 Sep 2024 22:45:27 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/test/</guid>
+      <guid>http://localhost:41655/portfolio/test/</guid>
       <description>&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/COgU6YCUcAApmFw.jpg&#34; alt=&#34;funny haha&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

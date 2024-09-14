@@ -25,13 +25,13 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Home"
     identifier = "menu.home"
-    url        = "/"
+    url        = "/home/home"
     weight     = 1
 
 [[menu.main]]
     name       = "Play a game"
     identifier = "menu.playAGame"
-    url        = "/img/template-homepage.png"
+    url        = "/game/game"
     weight     = 2
 
 [[menu.main]]
@@ -139,7 +139,7 @@ pluralizelisttitles = false
     disabled_logo = false
     logo_text = "Universal"
 
-    logo = "img/logo.png"
+    logo = "img/logo1.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
@@ -235,3 +235,7 @@ pluralizelisttitles = false
   category = "categories"
   tag = "tags"
   author = "authors"
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

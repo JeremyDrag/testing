@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>http://localhost:41655/home/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Sep 2024 14:15:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:41655/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>http://localhost:41655/home/home/</link>
+      <pubDate>Sat, 14 Sep 2024 14:15:59 +0000</pubDate>
+      <guid>http://localhost:41655/home/home/</guid>
+      <description>&lt;h2 id=&#34;side-by-side-images-and-text&#34;&gt;Side by Side Images and Text&lt;/h2&gt;&#xA;&lt;div class=&#34;side-by-side&#34;&gt;&#xA;  &lt;div class=&#34;image&#34;&gt;&#xA;    &lt;img src=&#34;https://photographylife.com/wp-content/uploads/2017/01/Best-of-2016-Nasim-Mansurov-20.jpg&#34; alt=&#34;First Image&#34; /&gt;&#xA;    &lt;p&gt;Caption for the first image.&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;image&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:41655/img/an2.png&#34; alt=&#34;Second Image&#34; /&gt;&#xA;    &lt;p&gt;Caption for the second image.&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;block-text&#34;&gt;&#xA;  &lt;p&gt;This is a block of text that accompanies the side-by-side images. You can write as much content as you need here, and it will align below the images if the screen is narrow, or to the side if it&#39;s wide enough.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
