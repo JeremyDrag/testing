@@ -13,7 +13,7 @@
       <link>http://localhost:1313/game/game/</link>
       <pubDate>Sat, 14 Sep 2024 15:18:03 +0000</pubDate>
       <guid>http://localhost:1313/game/game/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;  &lt;head&gt;&#xA;    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/addons/p5.sound.min.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;style.css&#34;&gt;&#xA;    &lt;meta charset=&#34;utf-8&#34; /&gt;&#xA;  &lt;/head&gt;&#xA;  &lt;body&gt;&#xA;    &lt;main&gt;&#xA;    &lt;/main&gt;&#xA;    &lt;script id=main src=&#34;sketch.js&#34;&gt;&lt;/script&gt;&#xA;  &lt;/body&gt;&#xA;&lt;/html&gt;</description>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;  &lt;head&gt;&#xA;    &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;style.css&#34;&gt;&#xA;    &lt;script src=&#34;p5.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;/head&gt;&#xA;  &lt;body&gt;&#xA;    &lt;script src=&#34;sketch.js&#34;&gt;&lt;/script&gt;&#xA;  &lt;/body&gt;&#xA;&lt;/html&gt;</description>
     </item>
   </channel>
 </rss>
